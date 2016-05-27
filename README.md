@@ -49,9 +49,6 @@ errors can be ignored with the 'ignore_ca_errors' parameter.
 One can also automatically stop tracking the certificate request if it's
 rejected by the CA. This is done by setting the 'cleanup_on_error' flag.
 
-## TO-DO
-* rspec tests and integration with travis-ci
-
 ## Contributing
 * Fork it
 * Create a topic branch
