@@ -59,4 +59,8 @@ rejected by the CA. This is done by setting the 'cleanup_on_error' flag.
 * Submit a PR
 
 ## Acknowledgements
-Honorable mention goes out to Rob Crittenden for his work on https://github.com/rcritten/puppet-certmonger, which was used as inspiration for this module.
+
+Thanks to:
+* Rob Crittenden for his work on https://github.com/rcritten/puppet-certmonger
+  and his helpful reviews
+* Github user earsdown for his work on the original version of this module.
