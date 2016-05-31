@@ -1,5 +1,5 @@
 {
-  "name": "puppet-certmonger-2",
+  "name": "jaosorior-certmonger",
   "version": "0.1.0",
   "author": "jaosorior",
   "summary": "Certmonger puppet module",
